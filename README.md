@@ -7,3 +7,6 @@ In this analysis, we take on the policing in Los Angeles, specifically looking a
 3. Spatially join the two datasets
 4. Normalize the data to create arrests per 1000
 5. Conduct global spatial autocorrelation using Moran's I
+
+Map of arrests in LA in the year 2023
+![image](https://github.com/user-attachments/assets/c99c8fcd-a750-481c-ace5-0a7f194bfa43)
